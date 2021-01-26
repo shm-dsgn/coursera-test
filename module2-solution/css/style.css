@@ -15,6 +15,7 @@ h1 {
   margin-bottom: 10px;
   text-align: center;
   color: white;
+  font-size: 1.75em;
 }
 
 
@@ -80,6 +81,7 @@ h1 {
   clear: right;
   padding: 10px;
   color: white;
+  font-size: 1em;
 }
 
 .dish-title {
