@@ -7,14 +7,12 @@
 
 body {
   font-family: "Helvetica" all;
-  background-color: #121212;
 }
 
 h1 {
   margin-top: 30px;
   margin-bottom: 10px;
   text-align: center;
-  color: white;
   font-size: 1.75em;
 }
 
@@ -70,8 +68,8 @@ h1 {
 
 .container {
   position: relative;
-  background: #000000;
-  border: 1px #ffffff solid;
+  background: #999999;
+  border: 1px solid;
   margin: 20px;
   height: auto;
 }
@@ -80,7 +78,6 @@ h1 {
   height: auto;
   clear: right;
   padding: 10px;
-  color: white;
   font-size: 1em;
 }
 
@@ -90,7 +87,7 @@ h1 {
   top: -1px;
   left: 1px;
   padding: 5px 50px;
-  border: 1px #ffffff solid;
+  border: 1px solid;
   font-size: 1.25em;
 }
 
